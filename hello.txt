@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="/Static/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html" class ="seleccion">Universidad Autonoma de Chiapas</a>
+
+        </nav>
+    </header>
+
+    <form action="index.html" class="form-box animated fadeInUp">
+        <h1 class="form-title">Iniciar Sesión</h1>
+        <input type="text" placeholder="Correo Unach" autofocus>
+        <input type="password" placeholder="Contraseña">
+        <input type="" placeholder="Fecha">
+        <button type="submit">
+            Iniciar Sesión
+        </button>
+    </form>
+    <footer style="background: darkcyan; color: white; padding: 10px;"></footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Phone</h4>
+                <p>967-193-7117</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>jazmin.mijangos82@unach.mx</p>
+            </div>
+            <div class="content-foo">
+                <h4>Location</h4>
+                <p>Tuxtla Gutierrez, Chiapas</p>
+            </div>
+        </div>
+        <h2 class="titulo final">&copy; JazminML Desing | Jazmin Mijangos</h2>
+    </footer>
+
+</body>
+
+</html>
